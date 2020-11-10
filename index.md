@@ -9,12 +9,12 @@ country: "nl"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "52.002677"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "4.375240"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Jan 14&15, 21&22, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Jan 14-15 & 21-22, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 13:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-01-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-01-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Jeff Love", "Kristina Hettne", "Ben Campanjen"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Peter Verhaar ", "Yan Wang", "Esther Plomp"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Peter Verhaar", "Yan Wang", "Esther Plomp"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["e.plomp@tudelft.nl","second@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: "128249364301"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
